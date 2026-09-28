@@ -1,16 +1,16 @@
 ---
-name: genspark-workspace-skill
-description: GenPark skill for utilizing GenSpark Workspace 4.0 features, including Claw for Desktop, MS Office Integration, Speakly Live Translation, and OpenCode workflows.
+name: genpark-workspace-skill
+description: GenPark skill for utilizing GenPark Workspace 4.0 features, including Claw for Desktop, MS Office Integration, Speakly Live Translation, and OpenCode workflows.
 ---
 
-# GenSpark Workspace 4.0 Skill
+# GenPark Workspace 4.0 Skill
 
-This skill empowers AI agents to leverage the latest capabilities of GenSpark Workspace 4.0, integrating advanced AI assistance into everyday productivity workflows, local environments, and communication channels.
+This skill empowers AI agents to leverage the latest capabilities of GenPark Workspace 4.0, integrating advanced AI assistance into everyday productivity workflows, local environments, and communication channels.
 
 ## Core Capabilities
 
-### 1. Genspark Claw for Desktop (Computer & Browser Use)
-Genspark Claw acts as an autonomous AI employee that can interact directly with the local environment.
+### 1. GenPark Claw for Desktop (Computer & Browser Use)
+GenPark Claw acts as an autonomous AI employee that can interact directly with the local environment.
 - **Local File & App Interaction**: Navigate folders, rename files, extract data, and move files across the local machine without requiring manual uploads.
 - **Browser Automation**: Automatically handle web navigation, form-filling, data scraping, and executing tasks across web interfaces.
 - **Privacy-by-Isolation**: Runs securely in a pre-configured cloud environment that interfaces directly with local resources.
